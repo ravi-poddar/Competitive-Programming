@@ -7,8 +7,8 @@
  * [Math]
    * [Phi Function]
    * [Primality Test]
- * [Exponentiation]
-   * [Fast Exponentiation]
+ * [Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/tree/master/Exponentiation)
+   * [Fast Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/Exponentiation/fastexpo.cpp)
    * [Modular Exponentiation]
    * [Matrix Exponentiation]
  * [Searching]
