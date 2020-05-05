@@ -1,6 +1,6 @@
 # Fibonacci numbers are a series of numbers in which each number is the sum of the two preceding numbers .
 
-## You will be given three numbers X , Y , N . You have to find F(n).
+#### You will be given three numbers X , Y , N . You have to find F(n).
 
          F(0) = X
          F(1) = Y
