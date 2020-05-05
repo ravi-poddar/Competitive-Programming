@@ -10,7 +10,7 @@
  * [Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/tree/master/Exponentiation)
    * [Fast Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/Exponentiation/fastexpo.cpp)
    * [Modular Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/Exponentiation/modexp.cpp)
-   * [Matrix Exponentiation]
+   * [Matrix Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/tree/master/Exponentiation/Matrix%20Exponentiation)
  * [Searching]
    * [Binary Search]
    * [Painter's Problem]
