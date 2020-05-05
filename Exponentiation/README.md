@@ -9,3 +9,6 @@
 
 ## Modular Exponentiation : (a^b)%c = ((a%c)^(b%c))%c
 >Time Complexity O(log b)
+
+## Matrix Exponentiation
+>Time Complexity  O(k^3.logN), k = size of the matrix
