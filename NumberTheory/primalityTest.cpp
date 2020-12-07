@@ -1,10 +1,12 @@
+//Primality Test function: isPrime
+//check whether a number 'n' is prime or not
+//Time Complexity: O(sqrt(n))
+//Problem link: https://www.codechef.com/problems/PRB01
+
 #include<iostream>
 
 using namespace std;
 
-//Primality Test function: isPrime
-//check whether a number 'n' is prime or not
-//Time Complexity: O(sqrt(n))
 bool isPrime(int n){
     if(n==1)
         return false;
