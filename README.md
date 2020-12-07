@@ -5,8 +5,8 @@
  
  > ## Contents
  * [Math]
-   * [Phi Function]
    * [Primality Test]
+   * [Phi Function]
  * [Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/tree/master/Exponentiation)
    * [Fast Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/Exponentiation/fastexpo.cpp)
    * [Modular Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/Exponentiation/modexp.cpp)
