@@ -4,8 +4,8 @@
  >  __Some Important Algorithms and Solutions in C++__
  
  > ## Contents
- * [Math]
-   * [Primality Test]
+ * [Number Theory](https://github.com/ravi-poddar/Competitive-Programming/tree/master/NumberTheory)
+   * [Primality Test](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/primalityTest.cpp)
    * [Phi Function]
  * [Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/tree/master/Exponentiation)
    * [Fast Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/Exponentiation/fastexpo.cpp)
