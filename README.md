@@ -8,6 +8,7 @@
    * [Primality Test](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/primalityTest.cpp)
    * [Sieve Of Eratosthenes](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/sieve.cpp)
    * [Prime Factorization](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/primeFactorization.cpp)
+   * [Prime Factorization Using Seive](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/primeFactUsingSeive.cpp)
    * [Binary Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/binaryExponentiation.cpp)
    * [Modular Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/modularExponentiation.cpp)
    * [Phi Function]
