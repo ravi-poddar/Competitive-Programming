@@ -9,3 +9,5 @@
         * [Solution](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/findTheKthPrime.cpp)
     * [Micro Prime Prime](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/micro-and-prime-prime-1/description/)
         * [Solution](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/microPrimePrime.cpp)
+* [Prime Factorization](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/primeFactorization.cpp)
+* [Prime Factorization Using Seive](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/primeFactUsingSeive.cpp)
