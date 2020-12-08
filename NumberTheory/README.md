@@ -1,7 +1,7 @@
 > ## Questions Based On Number Theory
 * [Primality Test](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/primalityTest.cpp)
     * [Primality Test](https://www.codechef.com/problems/PRB01)
-        *[Soultion](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/primalityTest.cpp)
+        * [Soultion](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/primalityTest.cpp)
     * [Prime Intervals](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/prime-interval/)
         * [Solution](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/primeIntervals.cpp)
 * [Seive Of Eratosthenes](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/sieve.cpp)
