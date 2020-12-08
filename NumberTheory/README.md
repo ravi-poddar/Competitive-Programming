@@ -1,9 +1,11 @@
 > ## Questions Based On Number Theory
-* [Primality Test]
+* [Primality Test](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/primalityTest.cpp)
     * [Primality Test](https://www.codechef.com/problems/PRB01)
+        *[Soultion](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/primalityTest.cpp)
     * [Prime Intervals](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/prime-interval/)
-        * [Solution]
-* [Seive Of Eratosthenes]
+        * [Solution](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/primeIntervals.cpp)
+* [Seive Of Eratosthenes](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/sieve.cpp)
     * [TDKPRIME - Finding the Kth Prime](https://www.spoj.com/problems/TDKPRIME/)
-        * [Solution]
+        * [Solution](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/findTheKthPrime.cpp)
     * [Micro Prime Prime](https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/micro-and-prime-prime-1/description/)
+        * [Solution](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/microPrimePrime.cpp)
