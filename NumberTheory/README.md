@@ -15,3 +15,5 @@
 * [Matrix Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/matrixExponentiation.cpp)
     * [MPOW - Power of matrix](https://www.spoj.com/problems/MPOW/)
         * [Solution](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/matrixExponentiation.cpp)
+    * [Fibonacci Finding (easy)](https://www.hackerrank.com/challenges/fibonacci-finding-easy/problem)
+        *[Solution](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/fibonacciNth.cpp)
