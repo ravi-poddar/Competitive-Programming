@@ -12,6 +12,6 @@
 * [Prime Factorization](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/primeFactorization.cpp)
 * [Prime Factorization Using Seive](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/primeFactUsingSeive.cpp)
 
-* [Matrix Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/matrixExponentiation)
+* [Matrix Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/matrixExponentiation.cpp)
     * [MPOW - Power of matrix](https://www.spoj.com/problems/MPOW/)
-        * [Solution](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/matrixExponentiation)
+        * [Solution](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/matrixExponentiation.cpp)
