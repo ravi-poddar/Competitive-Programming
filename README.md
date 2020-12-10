@@ -11,6 +11,7 @@
    * [Prime Factorization Using Seive](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/primeFactUsingSeive.cpp)
    * [Binary Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/binaryExponentiation.cpp)
    * [Modular Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/modularExponentiation.cpp)
+   * [Matrix Exponentiation]((https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/matrixExponentiation))
    * [Phi Function]
  * [Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/tree/master/Exponentiation)
    * [Fast Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/Exponentiation/fastexpo.cpp)
