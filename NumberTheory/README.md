@@ -20,4 +20,4 @@
 
 * [GCD](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/gcd.cpp)
     * [Gcd Queries](https://www.codechef.com/problems/GCDQ)
-    * [Solution](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/gcdqueries.cpp)
+        * [Solution](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/gcdqueries.cpp)
