@@ -13,12 +13,12 @@
    * [Modular Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/modularExponentiation.cpp)
    * [Matrix Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/matrixExponentiation.cpp)
    * [Phi Function]
- * [Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/tree/master/Exponentiation)
-   * [Fast Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/Exponentiation/fastexpo.cpp)
-   * [Modular Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/Exponentiation/modexp.cpp)
-   * [Matrix Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/tree/master/Exponentiation/Matrix%20Exponentiation)
+   * [Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/tree/master/Exponentiation)
+      * [Fast Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/Exponentiation/fastexpo.cpp)
+      * [Modular Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/Exponentiation/modexp.cpp)
+      * [Matrix Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/tree/master/Exponentiation/Matrix%20Exponentiation)
 
-* [GCD](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/gcd.cpp)
+  * [GCD](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/gcd.cpp)
 
  * [Searching]
    * [Binary Search]
