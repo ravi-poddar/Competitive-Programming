@@ -17,3 +17,5 @@
         * [Solution](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/matrixExponentiation.cpp)
     * [Fibonacci Finding (easy)](https://www.hackerrank.com/challenges/fibonacci-finding-easy/problem)
         * [Solution](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/fibonacciNth.cpp)
+
+* [GCD](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/gcd.cpp)
