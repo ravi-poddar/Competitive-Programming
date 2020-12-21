@@ -18,7 +18,9 @@
       * [Modular Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/Exponentiation/modexp.cpp)
       * [Matrix Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/tree/master/Exponentiation/Matrix%20Exponentiation)
 
-  * [GCD](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/gcd.cpp)
+   * [GCD](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/gcd.cpp)
+      * [Gcd Queries](https://www.codechef.com/problems/GCDQ)
+      * [Solution](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/gcdqueries.cpp)
 
  * [Searching]
    * [Binary Search]
