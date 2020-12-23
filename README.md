@@ -17,6 +17,8 @@
       * [Fast Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/Exponentiation/fastexpo.cpp)
       * [Modular Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/blob/master/Exponentiation/modexp.cpp)
       * [Matrix Exponentiation](https://github.com/ravi-poddar/Competitive-Programming/tree/master/Exponentiation/Matrix%20Exponentiation)
+      * [Modulo Multiplicative Inverse Using Fermat Little's Theorem](https://github.com/ravi-poddar/Competitive-Programming/tree/master/Exponentiation/moduloInverseUsingFermat.cpp)
+      * [Binomial Coefficient using Modulo Inverse](https://github.com/ravi-poddar/Competitive-Programming/tree/master/Exponentiation/binomialCoefficientUsingModuloInverse.cpp)
 
    * [GCD](https://github.com/ravi-poddar/Competitive-Programming/blob/master/NumberTheory/gcd.cpp)
       
