@@ -29,3 +29,7 @@
 
 ## Matrix Exponentiation
 >Time Complexity  O(k^3.logN), k = size of the matrix
+
+## Binomial Coefficient Using Modulo Inverse
+> We have to calculate C(n,k)%P = (n!/(k! * (n-k)!))%P
+> C(n,k)%P = (n! % P)/((k! %P) * ((n-k)!%P))
